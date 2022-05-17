@@ -1,6 +1,3 @@
 # Eclipse-shortcuts
 
-List of shortcuts for eclipse code editor
-To ease your work
-More efficiently
-Increase the productivity
+List of shortcuts for eclipse code editor to ease your work more efficiently and productively
