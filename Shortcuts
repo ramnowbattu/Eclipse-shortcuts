@@ -1,0 +1,33 @@
+*****:Eclipse Shortcuts:*****
+
+upper case: ctrl + shift + x
+
+lower case: ctrl + shift + y
+
+printline: syso + ctrl + space
+
+main method: main + ctrl + space
+
+loops and conditions: for/while/if/if else/switch + ctrl + space
+
+move statements: place the cursor on the line and alt + up arrow  or alt + down arrow
+
+place the code in loops/conditions/trycatch blocks : highlight code and alt + shift + z
+
+getters and setters and constructor: alt + shift + s
+
+correct indentaion format: ctrl + shift + f
+
+single line comment: ctrl + /
+
+multi line comment: ctrl +shift + /
+
+import package: ctrl + shift + o
+
+change the name globally: alt + shift + r
+
+delete the line: ctrl + d
+
+paranthesis begining and ending: ctrl + shift + p
+
+font size: ctrl + shift + "+" or ctrl + shift + "-"
